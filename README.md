@@ -32,7 +32,7 @@ Dataset: https://www.kaggle.com/datasets/sansuthi/global-co2-emissions
 
 Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
-![UML Diagram for my project](UML Diagram.png)
+![UML Diagram for my project](UMLDiagram.png)
 
 ## Video Demo
 
@@ -44,8 +44,9 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](thumbnail.png)]([youtube-URL-here](https://youtu.be/T9od3hjLHCI))
 
 ## Description
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+For this project I wanted to use people's ages and names to represent the diversity there is among people in society. I used the data scene class to create a scene using hte draw scene method. I made sure to use the math class methods such as random number to vary the heights of the bars slightly. I used the draw rectangle method to add the bars to represent the amunt of people. I also used draw text to put the ages. My project can show audiences the variety of people through the world and the different age groups with their names.
